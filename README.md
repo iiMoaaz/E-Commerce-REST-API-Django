@@ -7,7 +7,7 @@ Supports JWT authentication, product management, order processing, reviews, and 
 
 ## 🔗 Live API Documentation
 
-> Visit: `https://MoaazMuhammad.pythonanywhere.com/api/docs/`
+> Visit: `[https://MoaazMuhammad.pythonanywhere.com/api/docs/]`
 
 ---
 
