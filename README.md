@@ -48,7 +48,7 @@ cd ./ECommerce_API
 ### 2. Install dependencies
 
 ```bash
-pip install djangorestframework django-filter djangorestframework-simplejwt drf-spectacular django
+pip install -r requirements.txt
 ```
 
 ### 3. Apply migrations
@@ -153,13 +153,6 @@ This API uses **Bearer JWT Tokens**.
 
 ### Review
 - product, user, rating (0–5), comment
-
----
-
-## 👤 Author
-
-**Muhammed Essa**  
-[GitHub](https://github.com/muhammedessa) 
 
 ---
 
