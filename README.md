@@ -7,7 +7,7 @@ Supports JWT authentication, product management, order processing, reviews, and 
 
 ## 🔗 Live API Documentation
 
-> Run locally and visit: `http://127.0.0.1:8000/api/docs/`
+> Visit: `https://MoaazMuhammad.pythonanywhere.com/api/docs/`
 
 ---
 
