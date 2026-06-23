@@ -7,7 +7,7 @@ Supports JWT authentication, product management, order processing, reviews, and 
 
 ## 🔗 Live API Documentation
 
-> Visit: `[https://MoaazMuhammad.pythonanywhere.com/api/docs/]`
+> **Visit:** [Live API Documentation](https://MoaazMuhammad.pythonanywhere.com/api/docs/)
 
 ---
 
@@ -41,8 +41,8 @@ Supports JWT authentication, product management, order processing, reviews, and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/E-commerce-REST-API-with-Django-Framework-Python.git
-cd E-commerce-REST-API-with-Django-Framework-Python/emarket
+git clone https://github.com/iiMoaaz/E-Commerce-REST-API-Django.git
+cd ./ECommerce_API
 ```
 
 ### 2. Install dependencies
